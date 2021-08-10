@@ -1,1 +1,3 @@
 SELECT * FROM [Person].[Person]
+
+SELECT * FROM [Sales].[SalesOrderHeader]
